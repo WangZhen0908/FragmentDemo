@@ -1,0 +1,4 @@
+# FragmentDemo
+统一处理了Fragment的显示隐藏回调方法，在ViewPager、hide/show、普通Activity模式下通用
+
+继承HiddenVisibleFragment，并重写onVisible和onHidden方法即可轻松处理Fragment真实显示隐藏的问题。
